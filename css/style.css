@@ -1,0 +1,238 @@
+body {
+    max-width: 1872px;
+    max-height: 964px;
+
+}
+
+.Frame1 {
+    position: absolute;
+    width: 1910px;
+    height: 964px;
+    left: 0px;
+    top: 0px;
+    background: url(../img/frame1.png) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.menu {
+
+    position: absolute;
+width: 1910px;
+height: 128px;
+left: 0px;
+top: 1px;
+
+background: #FFFFFF;
+}
+
+.name1{
+    position: relative;
+    left: 200px;
+    top: 20px;
+}
+
+.download{
+    position: relative;
+    left: 1000px;
+top: -40px;
+}
+
+.List{
+    position: relative;
+    left: 1200px;
+    top: -95px;
+}
+
+.Signin{
+    position: relative;
+    left: 1400px;
+    top: -155px;
+}
+
+.Singup{
+    position: relative;
+    left: 1560px;
+    top: -215px;
+}
+
+.Image1{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    left: 50px;
+    top: -300px;
+}
+
+.box1 {
+    position: relative;
+    width: 250px;
+    height: 150px;
+    top: 400px;
+    left: 815px;
+    border: 4px solid white;
+    box-sizing: border-box;
+    color: whitesmoke;
+    max-width: 250px;
+    }
+    
+    .Trek1{
+        position: relative;
+        top: 30px;
+        max-width: 250px;
+        left: 35px;
+    }
+
+    .box2 {
+        position: relative;
+        width: 450px;
+        height: 150px;
+        top: 600px;
+        left: 710px;
+        border: 4px solid white;
+        box-sizing: border-box;
+        color: whitesmoke;
+        }
+        
+        .Trek2{
+            position: relative;
+            top: 30px;
+            max-width: 2550px;
+            left: 90px;
+        
+        }
+
+.nf {
+    position: relative;
+    top: 1000px;
+    left: 200px
+}
+
+.gta {
+    position: relative;
+    top: 730px;
+    left: 800px;
+}
+
+.skyrim {
+    position: relative;
+    left: 1400px;
+    top: 450px;
+}
+
+
+.box4 {
+    position: absolute;
+    width: 454px;
+    height: 543px;
+    top: 1300px;
+    left: 120px;
+    background: #C4C4C4;
+    }
+
+    .box5 {
+        position: absolute;
+        width: 454px;
+        height: 543px;
+        top: 1300px;
+        left: 720px;
+        background: #C4C4C4;
+        }
+
+        
+        .box6 {
+            position: absolute;
+            width: 454px;
+            height: 543px;
+            top: 1300px;
+            left: 1320px;
+            background: #C4C4C4;
+            }
+        
+
+
+
+
+
+
+
+
+
+
+.Frame4 {
+    position: absolute;
+    width: 1910px;
+    height: 300px;
+    left: 0px;
+    top: 1844px;
+    background: url(../img/Frame4.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.Sub {
+position: relative;
+color: white;
+left: 150px;
+top: 50px;
+}
+
+.insta {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    top: 70px;
+    left: 50px;
+
+}
+
+.vk {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    top: -120px;
+    left: 155px;
+
+}
+
+.yt {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    top: -325px;
+    left: 270px;
+
+}
+
+.twit {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    top: -540px;
+    left: 400px;
+
+}
+
+.Komp {
+    position: relative;
+    left: 550px;
+    top: -650px;
+    color: white;
+    font-size: 12px;
+}
+
+.komp1{
+    position: relative;
+    max-width: 30px;
+    font-size: 10px;
+    top: -900px;
+    left: 1400px;
+    color: white;
+}
+
+.komp2{
+    position: relative;
+    max-width: 30px;
+    font-size: 9px;
+    top: -1030px;
+    left: 1600px;
+    color: white;
+}
